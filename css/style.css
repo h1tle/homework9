@@ -96,15 +96,6 @@ h6 {
   border: 1px solid #000;
   background-color: darkgray;
 }
-
-.new {
-  background-color: gray;
-  width: 200px;
-  height: 200px;
-  border: 2px solid #000;
-  float: left;
-}
-
 .bd {
   background-color: gray;
   width: 200px;
