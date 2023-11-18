@@ -1,0 +1,54 @@
+@import url(./null.css);
+.container {
+  width: 80%;
+  margin: 0 auto;
+  overflow: hidden;
+  padding: 20px;
+}
+
+.block1__right {
+  margin-right: 300px;
+}
+.new {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  float: right;
+}
+
+.bd {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  border: 1px solid #000;
+  float: left;
+}
+
+.block2__right {
+  margin-right: 300px;
+}
+.block2__left {
+  margin: 0px 20px 0px 0px;
+}
+
+.block3__right {
+  margin: 0px 20px 0px 0px;
+}
+.block3__middle {
+  margin: 0px 300px 0px 0px;
+}
+.block3__left {
+  margin: 0px 20px 0px 0px;
+}
+
+.block4 {
+  margin: 0 500px;
+}
+.block4__big {
+  margin: 0px 20px 0px 0px;
+  height: 410px;
+}
+.block4__top {
+  margin: 0px 0px 10px 0px;
+}/*# sourceMappingURL=style.css.map */
