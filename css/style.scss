@@ -86,36 +86,35 @@ h5,
 h6 {
   font-weight: inherit;
   font-size: inherit;
-} 
+} /*# sourceMappingURL=null.css.map */
+
 .block {
   border: 1px solid #000;
   margin: 10px;
   overflow: hidden;
-}
-.block__item {
-  width: 200px;
-  height: 200px;
-  border: 2px solid #000;
-  background-color: gray;
-  margin: 20px;
+  &__item {
+    width: 200px;
+    height: 200px;
+    border: 2px solid #000;
+    background-color: gray;
+    margin: 20px;
+  }
+  &__right {
+  }
 }
 .right {
   float: right;
 }
-
 .left {
   float: left;
 }
-
 .h-400 {
   height: 440px;
   margin-left: 350px;
 }
-
 .margin {
   margin-right: 300px;
 }
-
 .style {
   margin-left: 780px;
-}/*# sourceMappingURL=style.css.map */
+}
